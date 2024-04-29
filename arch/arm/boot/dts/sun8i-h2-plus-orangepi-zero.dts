@@ -56,7 +56,7 @@
 	compatible = "xunlong,orangepi-zero", "allwinner,sun8i-h2-plus";
 
 	aliases {
-		serial0 = &uart0;
+		serial0 = &uart2;
 		/* ethernet0 is the H3 emac, defined in sun8i-h3.dtsi */
 		ethernet0 = &emac;
 		ethernet1 = &xr819;

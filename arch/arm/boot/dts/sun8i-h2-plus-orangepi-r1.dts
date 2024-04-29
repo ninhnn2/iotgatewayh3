@@ -76,6 +76,22 @@
 	};
 };
 
+//&ehci2 {
+//	status = "okay";
+//};
+
+//&ohci2 {
+//	status = "okay";
+//};
+
+//&ehci3 {
+//	status = "okay";
+//};
+
+//&ohci3 {
+//	status = "okay";
+//};
+
 &ohci1 {
 	/*
 	 * RTL8152B USB-Ethernet adapter is connected to USB1,
